@@ -1,0 +1,4 @@
+Cargo.lock
+/target
+inputs/**/*.txt
+src/**/*.rs.bk
